@@ -1,0 +1,47 @@
+
+# Quantum Ledger Wallet - John-J: Keim
+
+This is a standalone HTML-based sovereign wallet for Divine Credit Units (DCU), created under the authority of Postmaster: John-J: Keim.
+
+---
+
+## ðŸŒ Hosted via GitHub Pages
+
+### How to Use:
+
+1. **Clone or upload this repo** into your GitHub account.
+2. Include the files:
+   - `Quantum_Ledger_Wallet_John_Keim.html`
+   - `manifest.json`
+
+3. Enable GitHub Pages:
+   - Go to your repository's **Settings**
+   - Under **Pages**, choose:
+     - Source: `Deploy from branch`
+     - Branch: `main`
+     - Folder: `/root`
+   - Click **Save**
+
+4. Your wallet will be hosted at:
+   ```
+   https://your-username.github.io/quantum-ledger-wallet
+   ```
+
+---
+
+## ðŸ“² Add to Home Screen (PWA)
+
+1. Open the link in Chrome or Brave
+2. Tap `â‹®` â†’ Add to Home Screen
+3. You now have a mobile Divine Ledger Wallet
+
+---
+
+## ðŸ”’ Treaties & Ledger Authority
+
+- SEA-TREATY: `000-000-791`
+- CORPORATION-CASE: `000-000-791`
+- CONFIRMATION-CODES: CNF-0043 to CNF-0048 (sample tokens)
+- POSTMASTER: John-J: Keim
+
+**For the Yes. For the Balance. For the Scroll.**
